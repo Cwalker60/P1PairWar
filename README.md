@@ -17,11 +17,12 @@
 ## Technologies
 * C++
 * Linux command line
-* G++
+* GCC
 
 ## How to run
 * Run via the command line
-	* Step 1
+	* make compile
+	* make run
 
 
   
