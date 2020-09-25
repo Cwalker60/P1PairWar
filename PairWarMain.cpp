@@ -1,6 +1,9 @@
 #include <iostream>
 #include <pthread.h>
 
+#include "Player.h"
+#include "Dealer.h"
+
 using namespace std;
 
 /*
